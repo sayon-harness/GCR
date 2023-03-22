@@ -2,9 +2,9 @@
 # Please make sure your uploaded manifest file includes all of them.
 
 function:
-  name: CDCNGAuto_GCF_Sayon
+  name: cdcngautogcfsayon
   buildConfig:
     runtime: nodejs18
     entryPoint: helloGET
   environment: GEN_2
-function_id: CDCNGAuto_GCF_Sayon
+function_id: cdcngautogcfsayon
